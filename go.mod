@@ -1,4 +1,4 @@
-module github.com/cions/leveldb-cli
+module github.com/fatihky/leveldb-cli
 
 go 1.17
 
