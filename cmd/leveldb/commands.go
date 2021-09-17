@@ -8,8 +8,8 @@ import (
 	"path"
 	"regexp"
 
-	"github.com/cions/leveldb-cli/indexeddb"
 	"github.com/fatih/color"
+	"github.com/fatihky/leveldb-cli/indexeddb"
 	"github.com/syndtr/goleveldb/leveldb"
 	"github.com/syndtr/goleveldb/leveldb/comparer"
 	"github.com/syndtr/goleveldb/leveldb/opt"

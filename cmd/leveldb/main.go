@@ -7,7 +7,7 @@ import (
 	"runtime/debug"
 	"strings"
 
-	"github.com/cions/leveldb-cli/indexeddb"
+	"github.com/fatihky/leveldb-cli/indexeddb"
 	"github.com/syndtr/goleveldb/leveldb/comparer"
 	"github.com/urfave/cli/v2"
 )
